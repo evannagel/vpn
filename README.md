@@ -30,7 +30,7 @@ Downloaded And Installed ProtonVPN
 <img src="https://i.imgur.com/iT1exFm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Before Using ProtonVPN
+IP Address Before Using ProtonVPN
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Before Using ProtonVPN
 <img src="https://i.imgur.com/F9s3sVW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After Using ProtonVPN
+IP Address After Using ProtonVPN
 </p>
 <br />
 
