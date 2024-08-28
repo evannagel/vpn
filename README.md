@@ -41,3 +41,9 @@ Before Using ProtonVPN
 After Using ProtonVPN
 </p>
 <br />
+
+
+<img src="https://i.imgur.com/1a1HjAs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Connected To A Server In The USA Using ProtonVPN
