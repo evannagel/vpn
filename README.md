@@ -22,7 +22,7 @@ The VPN Project provides a simple Virtual Private Network (VPN) client designed 
 <img src="https://i.imgur.com/STI93xA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Downloaded And Installed ProtonVPN
+Downloaded And Installed ProtonVPN On Windows VM
 </p>
 <br />
 
@@ -30,7 +30,7 @@ Downloaded And Installed ProtonVPN
 <img src="https://i.imgur.com/iT1exFm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-IP Address Before Using ProtonVPN
+My IP Address On Whatismyipaddress.com With My Home PC Before Using ProtonVPN
 </p>
 <br />
 
@@ -38,7 +38,7 @@ IP Address Before Using ProtonVPN
 <img src="https://i.imgur.com/F9s3sVW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-IP Address After Using ProtonVPN
+My IP Address On Whatismyipaddress.com After Using ProtonVPN
 </p>
 <br />
 
@@ -46,4 +46,4 @@ IP Address After Using ProtonVPN
 <img src="https://i.imgur.com/1a1HjAs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Connected To A Server In The USA Using ProtonVPN
+I Am Connected To A Server In The USA Using ProtonVPN (Showing A Different IP Address)
